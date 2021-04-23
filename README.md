@@ -17,5 +17,5 @@ current temperature is displayed on the LCD. The decision taken by the microcont
 temperature is high). <br>
 Basically the incubation system start by reading the current values of temperature and light intensity. This system is designed depending upon the sunshine. If there is a
 sunshine, it means that this is the day time. So, the fan in this condition runs at the full speed. On the other hand if there is no sunshine, then it means that the time is the
-night time. So, in this condition, the fan runs using the Pulse Width Modulation Technique through which the speed of the fan can be varied. In fact, this is done because
+night time. So, in this condition, the fan runs using the Pulse Width Modulation Technique through which the speed of the fan can be varied.<br> In fact, this is done because
 therefore temperature outside is the low in the night time as compared to the daytime when the sun is shining So, it will be work efficiently.
