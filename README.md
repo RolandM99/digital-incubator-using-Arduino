@@ -11,7 +11,7 @@ required for the proper hatching of eggs as a primary task because of its import
 
 ## 2. Project description 
 
-We have used a temperature sensor (LM35) and light sensor (LDR) which sense the temperature and light intensity inside the incubator, the output of which is provided
+On this project we gonna use a temperature sensor (LM35) and Light sensor (LDR) which sense the temperature and light intensity inside the incubator, the output of which is provided
 to the Arduino microcontroller which takes the decision based on the comparison between the desired set point values and the input values obtained from the sensor. The
 current temperature is displayed on the LCD. The decision taken by the microcontroller is either to turn on the Bulb (when temperature is low) or turn the Fan on (when
 temperature is high). <br>
