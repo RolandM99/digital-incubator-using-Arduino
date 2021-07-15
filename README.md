@@ -5,7 +5,7 @@
 An incubator is a device which is used to breed and preserve the bacteriological cultures or cell cultures. It supports the prime temperature, light intensity, humidity and other conditions inside the atmosphere.
 Incubators are very important for many experimental works in the field of cell biology, microbiology as well as molecular biology
 and cultures are used for the bacteria and other Eukaryota cells. They are also used as a substitute for the poultry chickens which often leads to a high rate of explosion
-because of the ability to control the major factor. i.e. Temperature.
+because of the ability to control the major factor. means Temperature.
 The incubator which we have designed basically is an egg incubator that monitors and controls the temperature as well as lightness in the desired or optimum range
 required for the proper hatching of eggs as a primary task because of its importance as a guiding factor or parameter.
 
